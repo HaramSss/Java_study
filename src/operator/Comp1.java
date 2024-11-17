@@ -15,5 +15,6 @@ public class Comp1 {
         // 결과를 boolean 변수에 담음
         boolean result = a==b;
         System.out.println(result);
+
     }
 }
